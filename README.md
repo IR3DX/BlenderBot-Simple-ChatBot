@@ -54,8 +54,9 @@ Follow the IBM Code Engine instructions to build and deploy this containerized a
 
 ## Project Structure
 ```bash
-├── demo.py           # Main Gradio app
+├── run_Chatbot.py    # Main CLI app
 ├── chatbot.py        # Chatbot class and logic
+├── gradio_app.py     # Gradio Interface
 ├── requirements.txt  # Python dependencies
 ├── Dockerfile        # Docker container setup
 ├── README.md         # Project documentation
