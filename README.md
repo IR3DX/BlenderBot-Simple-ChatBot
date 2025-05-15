@@ -60,6 +60,7 @@ Follow the IBM Code Engine instructions to build and deploy this containerized a
 ├── requirements.txt  # Python dependencies
 ├── Dockerfile        # Docker container setup
 ├── README.md         # Project documentation
+├── LICENSE           # License
 └── .gitignore        # Git ignore rules
 ```
 
