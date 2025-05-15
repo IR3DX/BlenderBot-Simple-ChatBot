@@ -61,6 +61,7 @@ Follow the IBM Code Engine instructions to build and deploy this containerized a
 ├── Dockerfile        # Docker container setup
 ├── README.md         # Project documentation
 ├── LICENSE           # License
+├── app.py            # Flask app
 └── .gitignore        # Git ignore rules
 ```
 
