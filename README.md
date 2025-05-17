@@ -81,4 +81,7 @@ Hugging Face Transformers
 Facebook BlenderBot
 Gradio
 
+## Notes:
+For the front end I used the free front end offered by IBM here @ https://github.com/ibm-developer-skills-network/LLM_application_chatbot/tree/main
+
 ### Feel free to reach out if you want to collaborate or have any questions!
